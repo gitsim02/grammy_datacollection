@@ -1,7 +1,10 @@
 # DCPP Group Project 
-## Data Collection and Pre-processing Grammy Awards
+#### Grammy Awards
 
-To scrape the data, run grammy-award.py ; Change the Selenium Webdriver location( @line:27 ) in the script, with your own webdriver's complete local path.
+To scrape the data: 
+ - Download the script folder. It contains the Edge Selenium Driver executive file as well.
+ - Run grammy-award.py
+
 
 Libraries Needed to Install : Selenium, Beautiful Soup, Pandas, lxml
 
