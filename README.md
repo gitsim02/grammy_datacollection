@@ -5,6 +5,7 @@ To scrape the data:
  - Download the script folder. It contains the Edge Selenium Driver executive file as well.
  - Run grammy-award.py
 
+The script will create a "dcpp_final_grammy.json" file in the same folder. 
 
 Libraries Needed to Install : Selenium, Beautiful Soup, Pandas, lxml
 
