@@ -1,7 +1,9 @@
 # DCPP Group Project 
 ## Data Collection and Pre-processing Grammy Awards
 
-### To scrape the data, run grammy-award.py ; Change the Selenium Webdriver location( @line:27 ) in the script, with your own webdriver's complete local path
+To scrape the data, run grammy-award.py ; Change the Selenium Webdriver location( @line:27 ) in the script, with your own webdriver's complete local path.
+
+Libraries Needed to Install : Selenium, Beautiful Soup, Pandas, lxml
 
 ## URLs fetched:
  - [Grammy Awards](https://www.grammy.com/awards)
